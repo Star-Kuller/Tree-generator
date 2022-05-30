@@ -1,0 +1,10 @@
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\bin\Debug\Генератор Деревьев.exe.config
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\bin\Debug\Генератор Деревьев.exe
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\bin\Debug\Генератор Деревьев.pdb
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор Деревьев.csproj.AssemblyReference.cache
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор_Деревьев.Form1.resources
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор_Деревьев.Properties.Resources.resources
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор Деревьев.csproj.GenerateResource.cache
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор Деревьев.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор Деревьев.exe
+C:\Users\Дмитрий\source\repos\Генератор Деревьев\Генератор Деревьев\obj\Debug\Генератор Деревьев.pdb
